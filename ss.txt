@@ -1,0 +1,7 @@
+pwd 
+whoami
+nano
+touch 
+cp
+mv
+rm
